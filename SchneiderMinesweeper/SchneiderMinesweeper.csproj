@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Classes\" />
+    <Folder Include="Classes\Model\" />
+    <Folder Include="Classes\View\" />
+    <Folder Include="Classes\ViewModel\" />
+    <Folder Include="Classes\Constants\" />
+  </ItemGroup>
+</Project>
