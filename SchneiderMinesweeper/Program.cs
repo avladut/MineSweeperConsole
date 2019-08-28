@@ -7,7 +7,6 @@ namespace SchneiderMinesweeper
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
             GameView gw = new GameView();
             gw.DisplayUI();
         }

@@ -10,6 +10,11 @@
     <Folder Include="Classes\Model\" />
     <Folder Include="Classes\View\" />
     <Folder Include="Classes\ViewModel\" />
-    <Folder Include="Classes\Constants\" />
+    <Folder Include="Classes\Utils\" />
+    <Folder Include="Classes\Utils\Constants\" />
+    <Folder Include="Classes\Utils\Structures\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Classes\ViewModel\PlayerViewModel.cs" />
   </ItemGroup>
 </Project>
